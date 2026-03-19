@@ -12,6 +12,3 @@ A security-first blockchain implementation that utilizes **Unsupervised Machine 
 * **ML Library:** Scikit-Learn (Isolation Forest)
 * **Web UI:** Streamlit
 * **Environment:** Fedora Linux / PyCharm
-
-### 🚀 Developer
-**Data Analyst & Python Developer** with 6+ years of experience in systems maintenance and infrastructure automation.

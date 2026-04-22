@@ -25,6 +25,5 @@ def generate_training_data(n_samples=5000):
     df.to_csv('normal_history.csv', index=False)
     print("✅ Model trained: 'sentinel_model.joblib' created.")
 
-# FIX: This block MUST be moved to the far left margin (un-indented)
 if __name__ == "__main__":
     generate_training_data()
